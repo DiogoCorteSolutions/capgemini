@@ -1,0 +1,14 @@
+D:\ProjectCap\Capgemini\Capgemini.Data\bin\Debug\Capgemini.Data.dll
+D:\ProjectCap\Capgemini\Capgemini.Data\bin\Debug\Capgemini.Data.pdb
+D:\ProjectCap\Capgemini\Capgemini.Data\obj\Debug\Capgemini.Data.csprojResolveAssemblyReference.cache
+D:\ProjectCap\Capgemini\Capgemini.Data\obj\Debug\Capgemini.Data.dll
+D:\ProjectCap\Capgemini\Capgemini.Data\obj\Debug\Capgemini.Data.pdb
+D:\ProjectCap\Capgemini\Capgemini.Data\bin\Debug\Capgemini.Data.dll.config
+D:\ProjectCap\Capgemini\Capgemini.Data\bin\Debug\Capgemini.DTO.dll
+D:\ProjectCap\Capgemini\Capgemini.Data\bin\Debug\Capgemini.Infra.dll
+D:\ProjectCap\Capgemini\Capgemini.Data\bin\Debug\EntityFramework.dll
+D:\ProjectCap\Capgemini\Capgemini.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectCap\Capgemini\Capgemini.Data\bin\Debug\Capgemini.DTO.pdb
+D:\ProjectCap\Capgemini\Capgemini.Data\bin\Debug\Capgemini.Infra.pdb
+D:\ProjectCap\Capgemini\Capgemini.Data\bin\Debug\EntityFramework.xml
+D:\ProjectCap\Capgemini\Capgemini.Data\bin\Debug\EntityFramework.SqlServer.xml

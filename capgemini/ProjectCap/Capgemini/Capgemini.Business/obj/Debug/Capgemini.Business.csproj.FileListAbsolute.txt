@@ -1,0 +1,16 @@
+D:\ProjectCap\Capgemini\Capgemini.Business\bin\Debug\Capgemini.Business.dll
+D:\ProjectCap\Capgemini\Capgemini.Business\bin\Debug\Capgemini.Business.pdb
+D:\ProjectCap\Capgemini\Capgemini.Business\obj\Debug\Capgemini.Business.dll
+D:\ProjectCap\Capgemini\Capgemini.Business\obj\Debug\Capgemini.Business.pdb
+D:\ProjectCap\Capgemini\Capgemini.Business\bin\Debug\Capgemini.Business.dll.config
+D:\ProjectCap\Capgemini\Capgemini.Business\bin\Debug\EntityFramework.dll
+D:\ProjectCap\Capgemini\Capgemini.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectCap\Capgemini\Capgemini.Business\bin\Debug\EntityFramework.xml
+D:\ProjectCap\Capgemini\Capgemini.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectCap\Capgemini\Capgemini.Business\obj\Debug\Capgemini.Business.csprojResolveAssemblyReference.cache
+D:\ProjectCap\Capgemini\Capgemini.Business\bin\Debug\Capgemini.Data.dll
+D:\ProjectCap\Capgemini\Capgemini.Business\bin\Debug\Capgemini.DTO.dll
+D:\ProjectCap\Capgemini\Capgemini.Business\bin\Debug\Capgemini.Infra.dll
+D:\ProjectCap\Capgemini\Capgemini.Business\bin\Debug\Capgemini.Data.pdb
+D:\ProjectCap\Capgemini\Capgemini.Business\bin\Debug\Capgemini.DTO.pdb
+D:\ProjectCap\Capgemini\Capgemini.Business\bin\Debug\Capgemini.Infra.pdb
